@@ -1,7 +1,7 @@
 # Open_copilot
 
 
-Official github : https://github.com/openchatai/opencopilot/
+Inspired by : https://github.com/openchatai/opencopilot/
 
 1.
 ![Introducing-OpenCopilot_page-0001](https://github.com/Rakib-data-scientist/Open_copilot/assets/137823730/e29bca60-c87f-4460-a032-cbe91353d7a3)
